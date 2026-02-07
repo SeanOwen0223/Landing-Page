@@ -1,1 +1,1 @@
-•Added a nav bar on the landing page
+• Added a nav bar on the landing page
